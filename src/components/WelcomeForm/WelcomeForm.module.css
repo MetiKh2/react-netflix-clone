@@ -1,0 +1,56 @@
+.container{
+    padding: 2.5rem;
+    border-radius: 10px;
+}
+h1{
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: .5rem;
+    margin-top: 1rem;
+    font-size: 33px;
+}
+.firstText{
+    text-align: center;
+    color: #fff;
+    opacity: .9;
+    font-size: 26px;
+    margin: 1.3rem 0;
+}.secText{
+    text-align: center;
+    color: #fff;
+    opacity: .7;
+    font-size: 16px;
+    margin: 1.3rem 0;
+}
+.welcomeInput{
+    border: none;
+    height: 3rem;
+    outline: 0;
+    font-size: 12px;
+    width: 70%;
+    padding-left: 1rem;
+}
+.inputContainer{
+margin-bottom: .8rem;
+}
+ 
+.btn{
+    background-color: red;
+    height: 3rem;
+    color: #fff;
+    width: 30%;
+    outline: 0;
+    border: none;
+    font-weight: 600;
+    font-size: 11px;
+}
+.navigate{
+    margin-top: 1rem;
+}
+.navigate span,.navigate a{
+font-size: 12px;
+}
+.navigate span{
+    color: gray;
+    margin-right: .5rem;
+}

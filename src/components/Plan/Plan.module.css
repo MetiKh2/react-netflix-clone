@@ -1,0 +1,21 @@
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.item button{
+    outline: 0;
+    border: 0;
+    background-color:#FF1C0B;
+    color: white;
+    padding:1rem .75rem;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.item p{
+    font-size: 14px;
+}
+.currentPackage{
+    background-color: gray !important;
+}
